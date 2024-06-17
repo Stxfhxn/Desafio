@@ -1,6 +1,8 @@
+package src;
+
 import java.util.Scanner;
 
-public class convertidorDeMonedas {
+public class Principal {
     // Tasas de cambio fijas (1 USD a la moneda local)
     private static final double USD_TO_CLP = 800.0; // Peso chileno
     private static final double USD_TO_ARS = 240.0; // Peso argentino
