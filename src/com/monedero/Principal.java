@@ -1,6 +1,6 @@
 package com.monedero;
 
-public class Monedero {
+public class Principal {
     String nombre;
     private int fechaDeLanzamiento;
     private int duracionEnMinutos;
@@ -59,4 +59,3 @@ public class Monedero {
         return sumaDeLasEvaluaciones / totalDelasEvaluaciones;
     }
 }
-
