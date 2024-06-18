@@ -1,4 +1,4 @@
-package src;
+package com.monedero;
 
 import java.util.Scanner;
 

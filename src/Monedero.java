@@ -1,4 +1,4 @@
-package com.aluracurso.screenmach;
+package com.monedero;
 
 public class Monedero {
     String nombre;
